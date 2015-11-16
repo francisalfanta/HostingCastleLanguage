@@ -44,31 +44,87 @@ $lang['aboutus_how_we_work_15']	= 'Kapag naibigay na namin ang tapos na produkto
 pamahalaan ang iyong site.';
 
 
-$lang['aboutus_latest_news']	= 'Pinakabagong mga Balita';
-$lang['aboutus_latest_news_1']	= 'Agosto 05, 2015 Miyerkules, Aqary CRM';
-$lang['aboutus_latest_news_2']	= 'Kami ay nagbubukas para sa libreng subok.';
+$lang['latestnews_title'] 		= 'Pinakabagong mga Balita';
+$lang['latestnews_header_title']= 'Agosto 05, 2015 Miyerkules, Aqary CRM';
+$lang['latestnews_content'] 	= "Kami ay nagbubukas para sa libreng subok.";
 
 
-$lang['aboutus_Careers']	= 'Propesyon';
-$lang['aboutus_Careers_1']	= 'Kami ay kasalukuyang naghahanap ng:';
-$lang['aboutus_Careers_2']	= 'Sales and Marketing Representative (2)';
-$lang['aboutus_Careers_3']	= 'Administrative Assistant (0)';
-$lang['aboutus_Careers_4']	= 'Kinakailangan';
-$lang['aboutus_Careers_5']	= 'Bihasa sa wikang Ingles.';
-$lang['aboutus_Careers_6']	= 'Higit sa isang taon na karanasan.';
-$lang['aboutus_Careers_7']	= 'Kinakailangang may lisensiya sa pagmamaneho sa UAE';
-$lang['aboutus_Careers_8']	= 'Marunong sa Microsoft Office';
-$lang['aboutus_Careers_9']	= 'May karanasan sa Real Estate dito sa Dubai ';
-$lang['aboutus_Careers_10']	= 'Mga Pakinabang';
-$lang['aboutus_Careers_11']	= 'Suweldo at komisyon'
-$lang['aboutus_Careers_12']	= 'Pahintulot sa pagtratrabaho para sa 2 taon';
-$lang['aboutus_Careers_13']	= 'Sim card galing sa kumpaniya';
-$lang['aboutus_Careers_14']	= 'Gastos sa kotse o gastos sa transportasyon';
-$lang['aboutus_Careers_15']	= 'LIbreng pagsasanay at pagsali sa may karanasang koponan';
-$lang['aboutus_Careers_16']	= 'Form para sa Pagaapply';
-$lang['aboutus_Careers_17']	= 'Pangalan';
-$lang['aboutus_Careers_18']	= 'Posisyon na Inaapplyan';
-$lang['aboutus_Careers_19']	= 'Numero ng Mobile';
-$lang['aboutus_Careers_20']	= 'Email';
-$lang['aboutus_Careers_21']	= 'Tungkol saiyong Sarili';
-$lang['aboutus_Careers_22']	= 'Ipasa';
+
+$lang['careers_title'] 			= 'Propesyon';
+
+// we are currently looking for title
+$lang['we_are_looking_title']	= 'Kami ay kasalukuyang naghahanap ng';
+$lang['we_are_looking_title_1'] = 'Sales and Marketing Representative (2)';
+$lang['we_are_looking_title_2'] = 'Administrative Assistant (0)';
+
+//Requirements
+$lang['req_title'] 				= 'Kinakailangan';
+$lang['req_title_1'] 			= 'Bihasa sa wikang Ingles.';
+$lang['req_title_2']			= 'Higit sa isang taon na karanasan.';
+$lang['req_title_3'] 			= 'Kinakailangang may lisensiya sa pagmamaneho sa UAE';
+$lang['req_title_4'] 			= 'Marunong sa Microsoft Office';
+$lang['req_title_5'] 			= 'May karanasan sa Real Estate dito sa Dubai ';
+
+//benefits
+$lang['benefits_title']			= 'Mga Pakinabang';
+$lang['benefits_title'] 		= 'Suweldo at komisyon';
+$lang['benefits_title'] 		= 'Pahintulot sa pagtratrabaho para sa 2 taon';
+$lang['benefits_title'] 		= 'Sim card galing sa kumpaniya';
+$lang['benefits_title'] 		= 'Gastos sa kotse o gastos sa transportasyon';
+$lang['benefits_title'] 		= 'Libreng pagsasanay at pagsali sa may karanasang koponan';
+
+
+//application form
+$lang['aplication_form_title'] 	= 'Form para sa Pagaapply';
+$lang['appl_name'] 			   	= 'Pangalan';
+$lang['appl_position']		   	= 'Posisyon na Inaapplyan';
+$lang['appl_mob_no']		   	= 'Numero ng Mobile';
+$lang['appl_email']			   	= 'Email';
+$lang['appl_about']			   	= 'Tungkol saiyong Sarili';
+$lang['appl_about']			   	= 'Ipasa';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
