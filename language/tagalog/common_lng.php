@@ -12,6 +12,6 @@ $lang['company_team'] = 'Ang Aming Grupo';
 $lang['company_howwework'] = 'Pano Kami Magtrabaho';
 $lang['company_latestnews'] = 'Mga Pinakabagong Balita';
 $lang['company_careers'] = 'Karera';
-$lang['company_location'] = 'Lakasyon';
+$lang['company_location'] = 'Lokasyon';
 $lang['company_contacts'] = 'Kontak';
 $lang['company_address']  = 'Lokasyon';
