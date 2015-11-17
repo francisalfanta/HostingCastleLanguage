@@ -5,205 +5,207 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['license_main_content'] = 'This Software License is made by (Hosting Castle Web Design LLC), (office #1806,
+$lang['license_main_content'] = 'Itong Lisensya ng Software ay ginawa sa ng ( Hosting Castle Web Design LLC ), (opisina # 1806,
 
-                                Marina Plaza, Dubai Marina, UAE), to the Customer as an essential element of the 
+                                Marina Plaza, Dubai Marina, UAE), para sa mamimili bilang isang mahalagang elemento ng
 
-                                services to be rendered by (Hosting Castle Web Design LLC) as defined in the 
+                                mga serbisyo na ibibigay sa pamamagitan ng ( Hosting Castle Web Design LLC) gaya ng tinukoy sa
 
-                                system specification and any associated documents and agreement. System shall mean 
+                                detalye ng sistema at anumang mga kaugnay na mga dokumento at kasunduan. Ang Sistema ay nangangahulugang 
 
-                                the deliverable product as defined in these documents.
+                                resulta ng producto gaya ng nilinaw sa mga dokumentong ito.
                                 <br>
                                 <br>
-                                Customer and (Hosting Castle Web Design LLC) agree that this Software License is 
+                                Ang Customer at ( Hosting Castle Web Design LLC) ay sumang-ayon na itong Lisensya ng Software ay
 
-                                deemed to be part of, and subject to, the terms of the Agreement applicable to both 
+                                ituring na bahagi at napapailalim sa mga tuntunin ng Kasunduang naaangkop sa parehong
 
-                                parties.';
+                                partido . ';
                                 
 //License agreement section 1
 
-$lang['license_section1_title']   = 'SECTION 1: LICENSE GRANT AND OWNERSHIP';
-$lang['license_section1_para1']   = '(Hosting Castle Web Design LLC) hereby grants to Customer a worldwide, 
+$lang['license_section1_title']   = 'SEKSYON 1: IPINAGKALOOB NA LISENSYA AT PAGMAMAYARI';
+$lang['license_section1_para1']   = '(Hosting Castle Web Design LLC) sa pamamagitan nito ay nagbibigay sa Customer sa buong mundo ,
 
-                                perpetual, non-exclusive, non-transferable license to all software for Customer\'s 
-
-                                use in connection with the establishment, use, maintenance and modification of 
-
-                                the system implemented by (Hosting Castle Web Design LLC). Software shall 
-
-                                mean executable object code of software programs and the patches, scripts, 
-
-                                modifications, enhancements, designs, concepts or other materials that 
-
-                                constitute the software programs necessary for the proper function and operation 
-
-                                of the system as delivered by the (Hosting Castle Web Design LLC) and 
-
-                                accepted by the Customer.' ;
+                                panghabang-buhay , hindi eksklusibo , di-nalilipat na lisensya upang ang lahat ng software para sa paggamit ng                                  
                                 
-$lang['license_section1_para2']  = 'Except as expressly set forth in this paragraph, (Hosting Castle Web Design 
+                                mamimili sa koneksyon sa pagtatatag, paggamit, pagpapanatili at pagbabago ng
 
-                                LLC) shall at all times own all intellectual property rights in the software. Any 
+                                ang ipinatupad na systema ng ( Hosting Castle Web Design LLC ) .Ang Software ay dapat
 
-                                and all licenses, product warranties or service contracts provided by third parties 
+                                ibig sabihin ng mga maipapatupad na object code ng programa ng software at mga patch, mga script,
 
-                                in connection with any software, hardware or other software or services 
+                                pagbabago, pagpapahusay, disenyo, konsepto o iba pang mga materyales na
 
-                                provided in the system shall be delivered to Customer for the sole benefit of 
+                                bumubuo sa mga programa ng software na kinakailangan para sa tamang pag-andar at operasyon
 
-                                Customer.' ;
+                                ng sistema na ibinigay ng ( Hosting Castle Web Design LLC ) at
+
+                                tinanggap ng Customer. ' ;
+
+$lang['license_section1_para2']  = 'Tahasang itinakda sa talata na ito , ( Hosting Castle Web Design
+
+                                LLC) na dapat sa lahat ng oras sarili ang lahat ng mga intelektuwal na karapatan na ari-arian sa software. Anuman
+
+                                at sa lahat ng mga lisensya , mga garantiya ng produkto o kontrata sa serbisyo na ibinigay ng mga ikatlong                              
+                                
+                                partido sa koneksyon sa anumang software , hardware o iba pang mga software o mga serbisyong
+
+                                ibinigay sa sistema ay dapat ihatid sa mamimili para lamang sa pakinabang ng
+
+                                Mamimili. ';
 
 
-$lang['license_section1_para3']   = 'Customer may supply to (Hosting Castle Web Design LLC) or allow the 
+$lang['license_section1_para3']   = 'Maaaring magbigay ang Customer sa ( Hosting Castle Web Design LLC) o payagan ang
 
-                                (Hosting Castle Web Design LLC) to use certain proprietary information, 
+                                ( Hosting Castle Web Design LLC) na gamitin ang tiyak na pagmamayaring impormasyon ,
 
-                                including service marks, logos, graphics, software, documents and business 
+                                kabilang ang marka ng serbisyo, logo , grapiko, software,impormasyon ng mga dokumento at mga negosyo
 
-                                information and plans that have been authored or pre-owned by Customer. All 
+                               at mga plano na nai- akda o dating pagaari ng Mamimili. Lahat
 
-                                such intellectual property shall remain the exclusive property of Customer and 
+                                tulad intellectual property ay dapat manatiling eksklusibong ari-arian ng Mamimili at
 
-                                shall not be used by (Hosting Castle Web Design LLC) for any purposes other 
+                                hindi dapat gamitin sa pamamagitan ng ( Hosting Castle Web Design LLC) para sa anumang layunin maliban
 
-                                than those associated with delivery of the system.';
+                                sa mga na kaugnay sa paghahatid ng sistema.';
                                 
 //License agreement section 2
-$lang['license_section2_title']   = 'SECTION 2: COPIES, MODIFICATION, AND USE';
-$lang['license_section2_para1']   = 'Customer may make copies of the software for archival purposes and as 
 
-                                required for modifications to the system. All copies and distribution of the 
+$lang['license_section2_title']   = 'SEKSYON 2: KOPYA, PAGBABAGO, AT GAMIT';
+$lang['license_section2_para1']   = 'Maaaring gumawa ang Customer ng kopya ng mga software para sa arkibal na layunin at 
+                               
+                                kung kinakailangan para sa pagbabago sa sistema. Lahat ng mga kopya at pamamahagi ng
 
-                                software shall remain within the direct control of Customer and its 
+                                software ay dapat manatili sa loob ng direktang kontrol ng Mamimili at ng kanyang
 
-                                representatives.';
-$lang['license_section2_para2']   = 'Customer may make modifications to the source code version of the software, if 
+                                mga kinatawan. ';
+$lang['license_section2_para2']   = 'Maaaring gumawa ang Mamimili ng pagbabago sa kodigo ng pinagmulan na bersyon ng software , kung
 
-                                and only if the results of all such modifications are applied solely to the system. 
+                                at kung ang mga resulta ng lahat ng mga naturang pagbabago ay inilapat lamang sa mga sistema.
 
-                                In no way does this Software License confer any right in Customer to license, 
+                                Wala sa anumang paraan na ang Lisensya ng Software ay maggawad ng anumang karapatan ng Mamimili sa lisensiya ,
 
-                                sublicense, sell, or otherwise authorize the use of the software, whether in 
+                                sub lisensya , ibenta, o kung hindi man pahintulutan ang paggamit ng mga software , kung sa
 
-                                executable form, source code or otherwise, by any third parties, except in 
+                                executable form, kodigo ng pinagmulan o kung hindi man , sa pamamagitan ng anumang mga ikatlong partido , maliban sa
 
-                                connection with the use of the system as part of Customer\'s business.';
-$lang['license_section2_para3']   = 'All express or implied warranties relating to the software shall be deemed null 
+                                may kaugnayan sa paggamit ng sistema bilang bahagi ng negosyo ng Mamimili .';
+$lang['license_section2_para3']   = 'Lahat ng ipinahayag o ipinahiwatig na warranty na may kaugnayan sa software ay dapat ituring na 
 
-                                and void in case of any modification to the software made by any party other 
+                                walang bisa sa kahit anumang kaso ng pagbabago sa software na ginawa ng anumang partido maliban
 
-                                than (Hosting Castle Web Design LLC).';
+                                sa ( Hosting Castle Web Design LLC) . ';
+
                                 
 //License agreement section 3
-$lang['license_section3_title']   = 'SECTION 3: WARRANTIES AND REPRESENTATIONS';
-$lang['license_section3_para1']   = 'It has all necessary rights and authority to execute and deliver this Software 
+$lang['license_section3_title']   = 'SEKYON 3: GARANTIYA AT REPRESENTASYON';
+$lang['license_section3_para1']   = 'Mayroon ito ng lahat ng kinakailangang karapatan at kapangyarihan na ipatupad at ihahatid ang Lisensya ng Software
 
-                                License and perform its obligations hereunder and to grant the rights granted 
+                                at maisagawa ang mga obligasyon sa ilalim nito upang bigyan ng karapatan na ipinagkaloob
 
-                                under this Software License to Customer.';
-$lang['license_section3_para2']   = 'The goods and services provided by contractor under this Software License,
+                                sa ilalim ng Lisensya ng Software sa Mamimili . ';
+$lang['license_section3_para2']   = 'Ang mga kalakal at serbisyo na ibinigay ng contractor sa ilalim ng Lisensya ng Software,
 
-                                including the software and all intellectual property provided hereunder, are 
+                                kasama ang software at ang lahat ng ibinigay na intelektwal na pagmamayari sa ilalim nito, ay
 
-                                original to (Hosting Castle Web Design LLC) or its subcontractors or 
+                                orihinal na ( Hosting Castle Web Design LLC ) subcontractor nito o
 
-                                partners.';
-$lang['license_section3_para3']   =  'The software, as delivered as part of the system, will not infringe or otherwise
+                                kasosyo.';
+$lang['license_section3_para3']   =  'Ang software, gaya ng ibinigay bilang bahagi ng sistema, ay hindi lumabag o kung hindi man
 
-                                violate the rights of any third party, or violate any applicable law, rule or 
+                                labagin sa mga karapatan ng anumang ikatlong partido, o labagin sa anumang naaangkop na batas, tuntunin o
 
-                                regulation.';
-$lang['license_section3_para4']   = '(Hosting Castle Web Design LLC) further represents and warrants that,
+                                regulasyon . ';
+$lang['license_section3_para4']   = '( Hosting Castle Web Design LLC) ay kumakatawan at naguutos na ,
 
-                                throughout the System Warranty Period, the executable object code of software 
+                                sa buong Panahon ng Garantiya sa Sistema, ang mga maipapatupad na bagay na kodigo ng software
 
-                                and the system will perform substantially in accordance with the System 
+                                at ang sistema ay ay gaganap sa kalahatan na alinsunod sa =
 
-                                Specifications and Agreement. If the software fails to perform as specified and 
+                                detalyadong sistema at kasunduan. Kung ang mga software ay mabibigo maisagawa tulad ng tinukoy at
 
-                                accepted all remedies are pursuant to the policies set forth in the Specification 
+                                tinanggap ang lahat ng mga remedyo ay alinsunod sa mga patakaran na itinakda sa Specification
 
-                                and in the Agreement. No warranty of any type or nature is provided for the 
+                                at sa Kasunduan. Walang mga garantiya ng anumang uri o likas na katangian ang ibinigay para sa
 
-                                source code version of the software which is delivered as is.';
-$lang['license_section3_para5']  = 'Except as expressly stated in this Agreement, there are no warranties, express
+                                bersyon ng pinagmulan ng kodigo ng software na kung saan ay ibinigay bilang ganun . ';
+$lang['license_section3_para5']  = 'Maliban sa tahasang ipinahayag sa Kasunduang ito , walang mga garantiya, ipinapahayag
 
-                                or implied, including, but not limited to, the implied warranties of fitness for a 
+                                o ipinahiwatig, kabilang, ngunit hindi limitado sa, mga ipinahiwatig na garantiya ng kaangkupan para sa isang
 
-                                particular purpose, of merchantability, or warranty of no infringement of third 
+                                partikular na layunin, ng kakayahang maibenta , o garantiya ng walang paglabag sa mga intelektuwal na karapatan ng ikatlong
 
-                                party intellectual property rights.';
+                                partido. ';
 //License agreement section 4
-$lang['license_section4_title']  = 'SECTION 4: INDEMNIFICATION';
-$lang['license_section4_para1']  = '(Hosting Castle Web Design LLC) hereby indemnifies and shall defend and 
+$lang['license_section4_title']  = 'SEKYON 4: BAYAD PINSALA';
+$lang['license_section4_para1']  = '( Hosting Castle Web Design LLC) sa pamamagitan nito magbabayad ng pinsala at dapat ipagtanggol at
 
-                                hold harmless Customer, its parent companies and its and their subsidiaries, 
+                                panghawakang hindi nakakapinsala sa Mamimili , angpinagmulang kumpanya at  ang kanilang mga sangay,
 
-                                affiliates, officers, directors, employees, agents and subcontractors from and 
+                                mga kaanib, opisyal, direktor, empleyado, ahente at subcontractor mula sa at
 
-                                against all liability, damages, loss, cost or expense, including but not limited to 
+                                laban sa lahat ng mga pananagutan , pinsala, pagkawala, gastos o gastusin , kabilang  ngunit hindi limitado sa
 
-                                reasonable attorneys\' fees and expenses, arising out of or in connection with any 
+                                makatwirang bayadat gastos sa abogado , na nagmula sa o may kaugnayan sa anumang
 
-                                breach or alleged breach of the Agreement or any third party claims that the 
+                                labagin o di-umanoy paglabag ng Kasunduan o anumang paghahabol ng ikatlong partido na ang
 
-                                software or system here provided by (Hosting Castle Web Design LLC) 
+                                software o sistema na ibinigay ng ( Hosting Castle Web Design LLC)
 
-                                infringes or otherwise violates any rights of any such third party.';
-$lang['license_section4_para2']  = 'Customer hereby indemnifies and shall defend and hold harmless (Hosting 
+                                lumalabag o kung hindi man lumalabag sa anumang mga karapatan ng anumang naturang ikatlong partido. ';
+$lang['license_section4_para2']  = 'Sa pamamagitan nito ang Mamimili magbayad ng pinsala at dapat ipagtanggol at panghawakang hindi nakakapinsala ( Hosting
 
-                                Castle Web Design LLC), its and their subsidiaries, affiliates, officers, 
+                                Castle Web Design LLC) , nito at ang kanilang mga sangay, kaanib, opisyal,
 
-                                directors, employees, agents and subcontractors from and against all liability, 
+                                direktor, empleyado, ahente at subcontractors mula sa lahat ng mga pananagutan,
 
-                                damages, loss, cost or expense, including but not limited to reasonable 
+                                pinsala, pagkawala, gastos o gastusin , kabilang ngunit hindi limitado sa makatwirang
 
-                                attorneys\' fees and expenses, arising out of or in connection with any third party 
+                                bayad at gastos sa abogado , na nagmula sa o may kaugnayan sa anumang ikatlong partido
 
-                                claims that Customer\'s use of the software in contravention of the grant of rights 
+                                Inaangkin ang paggamit ng Mamimili sa software sa paglalabag ng pinagkaloob na mga karapatan
 
-                                infringes or otherwise violates any rights of any such third party.';
-$lang['license_section4_para3']   = 'Upon the assertion of any claim or the commencement of any suit or proceeding
+                                lumalabag o kung hindi man lumalabag sa anumang mga karapatan ng anumang naturang ikatlong partido .';
+$lang['license_section4_para3']   = 'Sa badya ng anumang paghahabol o ang pagsisimula ng anumang paghahabla o paglilitis
 
-                                against an indemnitee by any third party that may give rise to liability of an 
+                                laban sa naniningil ng pinsala sa pamamagitan ng anumang third party na maaaring pagsimulan ng pananagutan ng isang
 
-                                indemnitor hereunder, the indemnitee shall promptly notify the indemnitor of 
+                                magbabayad ng pinsala dito, ang naniningil ng pinsala ay dapat agad na ipagbigay alam ang magbabayad ng pinsala ng
 
-                                the existence of such a claim and shall give the indemnitor reasonable 
+                                ang pagkakaroon ng tulad ng mga kahilingan at ibibigay ang magbabayad ng pinsala sa makatwirang
 
-                                opportunity to defend and to settle the claim at its own expense and with 
+                                pagkakataon upang ipagtanggol at upang lutasin sa sarili nitong gastos at may
 
-                                counsel of its own selection. The indemnitee shall cooperate with the 
+                                payo ng kanyang sariling pagpili. Ang naniningil ng pinsala ay dapat makipagtulungan sa mga
 
-                                indemnitor, shall at all times have the right full to participate in such a defense at 
+                                magbabayad ng pinsala,  dapat sa lahat ng oras ay may buong karapatan na sumali sa naturang pagtatanggol sa
 
-                                its own expense and shall not be obligated, against its consent, to participate in 
+                                kanyang sariling gastos at ay walang pananagutan, laban pahintulot nito, upang lumahok sa
 
-                                any settlement which it reasonably believes would have an adverse effect on its 
+                                anumang kasunduan kung saan makatuwiran nitong paghuhusga ay magkakaroon ng negatibong epekto sa kanyang
 
-                                business.';
+                                negosyo.';
 //License agreement section 5
-$lang['license_section5_title']  = 'SECTION 5: TRANSFER AND TERMINATION';   
-$lang['license_section5_para1']  = ' This license will automatically terminate upon the disassembly of the system 
+$lang['license_section5_title']  = 'SEKSYON 5: PAGLIPAT AT PAGWAWAKAS';   
+$lang['license_section5_para1']  = ' Ang lisensyang ito ay awtomatikong wawakasan sa paglabag sa sistema
 
-                                cited above, unless the system is reassembled in its original configuration in 
+                                binanggit sa itaas, maliban na lamang kung ang sistema ay maibabalik muli sa kanyang orihinal na ayos sa
 
-                                another location.
+                                isa pang lokasyon.
                                 <br>
                                 <br>
-                                (Hosting Castle Web Design LLC) may terminate this license upon notice for
+                                (Hosting Castle Web Design LLC) ay maaaring wakasan ang lisensyang ito sa paunawa para sa
 
-                                failure to comply with any of terms set forth in this Software License. Upon 
+                                sa hindi pagsunod sa anumang mga tuntunin na itinakda sa Lisensya ng Software. Sa 
 
-                                termination, Customer is obligated to immediately destroy the software, 
+                                pagwawakas , ang mamimili ay obligadong agad na sirain ang mga software,
 
-                                including all copies and modifications.
+                                kabilang ang lahat ng mga kopya at mga pagbabago.
                                 <br>
                                 <br>
-                                As Customer\'s duly authorized representative, I have read and agree to this 
+                               Bilang awtorisadong kinatawan, Nabasa ko at sumasang-ayon ako  sa lisensyang ito.
 
-                                License.';
+                                
 
                                 
