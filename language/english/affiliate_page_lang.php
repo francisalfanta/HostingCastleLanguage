@@ -5,6 +5,10 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+$lang['affiliate_sidebar_title'] = 'Earn with Us';
+$lang['affiliate_sidebar_menu1'] = 'Become an Affiliate';
+$lang['affiliate_sidebar_menu2'] = 'Become a Sales Partner';
+$lang['affiliate_title']   = 'Become an Affiliate';
 $lang['affiliate_content'] = ' <p>If you like Hosting Castle\'s products, tell the world about it and earn commissions in return.</p>
 		                         <p>The Hosting Castle Affiliate Partners Scheme allows you to earn commission on the customers you refer to our web site when they sign up for a CRM subscription.</p>
 		                          <ul>

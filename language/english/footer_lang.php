@@ -6,8 +6,8 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 // Get Started
-$lang['getstarted_title'] = 'Get Started';
-$lang['getstarted_login'] = 'Login';
+$lang['getstarted_title']    = 'Get Started';
+$lang['getstarted_login']    = 'Login';
 $lang['getstarted_register'] = 'Register';
 $lang['getstarted_forgotpassword'] = 'Forgot Password?';
 
@@ -30,7 +30,8 @@ $lang['company_careers']     = 'Careers';
 $lang['earn_title']         = 'Earn with Us';
 $lang['earn_partner']       = 'Become a Sales Partner';
 $lang['earn_affiliate']     = 'Become an Affiliate';
-
+$lang['earn_bussines']      = 'Become a Business';
+$lang['earn_partner']       = 'Partner';
 //Support
 $lang['support_title']            = 'Support';
 $lang['support_contact']          = 'Contact Us';

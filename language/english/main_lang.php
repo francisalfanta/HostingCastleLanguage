@@ -5,8 +5,15 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+$lang['main_image_slider1']  = 'AMAAL';
+$lang['main_image_slider1b'] = 'A PROFESSIONAL SERVICES SOFTWARE SOLUTIONS';
+$lang['main_image_slider2']  = 'AQARY';
+$lang['main_image_slider2b'] = 'A COMPLETE AND MOST COST EFFECTIVE CRM REAL ESTATE SOLUTION';
+$lang['main_image_slider3']  = 'TOJARY';
+$lang['main_image_slider3a'] = 'A SAFE AND SECURE E-COMMERCE SOLUTION';
+
 // About Us
-$lang['main_aboutus_title'] = 'About Us';
+$lang['main_aboutus_title']  = 'About Us';
 $lang['main_aboutus_content'] = ' helps companies maximize revenue, maximize satisfaction, and maximize every single day. We are creating software meeting the needs, budgets and access requirements of entrepreneurs, small and medium enterprises and larger corporations. 
 Our company enables organizations in all industries and markets to increase sales, enhance marketing, and improve customer service while boosting productivity and revenues. We provide excellent client service through our innovative approach, attention to detail, cost-saving ideas, and responsiveness to challenges and commitment to quality.';
 $lang['main_aboutus_readmore'] = 'read more';

@@ -30,3 +30,10 @@ $lang['amaal_aler_popup_title']   = 'Alert Information';
 $lang['amaal_aler_popup_content'] = 'This product is not yet available for purchase, please contact
                                       <a href="mailto:info@hostingcastle.com" style="color:blue; font-style:italic;">info@hostingcastle.com</a>
                                        for more details.</p>';
+$lang['image_slider1']  = 'Amaal';
+$lang['image_slider1b'] = 'Professional Service Software';
+$lang['image_slider2']  = 'Online Services';
+$lang['image_slider2b'] = 'Salon, spa, dental and many more';
+$lang['image_slider3']  = 'Boost Your Market';
+$lang['image_slider3b'] = 'Promotion and Good Deals';
+

@@ -5,11 +5,18 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['crm_sidelink_title'] = 'CRM Real Estate';
-$lang['about_aqary']		= 'About Aqary';
-$lang['aqary_sidelink_pricelist'] = 'Price list';
+$lang['aqary_image_slider1']   = 'Real Estate CRM';
+$lang['aqary_image_slider1b']  = 'Software Solutions';
+$lang['aqary_image_slider2']   = 'Aqary CRM';
+$lang['aqary_image_slider2b']  = 'Centralize platform';
+$lang['aqary_image_slider3']   = 'Property Business';
+$lang['aqary_image_slider3b']   = 'Easy to use CRM';
+
+$lang['crm_sidelink_title']           = 'CRM Real Estate';
+$lang['about_aqary']		          = 'About Aqary';
+$lang['aqary_sidelink_pricelist']     = 'Price list';
 $lang['aqary_sidelink_knowledgebase'] = 'Knowledgebase';
-$lang['aqary_sidelink_latestnews'] = 'Latest News';
+$lang['aqary_sidelink_latestnews']    = 'Latest News';
 
 $lang['crm_for_sidelink_title'] = 'CRM For Real Estate';
 $lang['crm_for_sidelink_descr'] = 'Manage your real estate business in a centralized platform. With great tools and useful features of Aqary you can operate your property business effeciently and effectively.';
@@ -29,8 +36,6 @@ $lang['aqary_product_overview_title'] = 'Aqary Real Estate CRM';
 $lang['aqary_product_overview_descr'] = '<p>We do not just build CRM systems-we are helping companies just like yours grow profitably. AQARY CRM is the most complete and easy-to-use real estate CRM software in the real estate industry. We make it easy to maximize lead generation and manage to shorten sales cycles, close more deals and increase revenue, all while delivering exceptional customer service.</p>
 							             <p>Aqary has helpful features that will make your property business very light to manage. Filters for searching units on your listings to instantly find what you are looking for is made efficiently useful by the system to save time. Payments and transactions records are well kept and secured. Aqary has also a dedicated storage for important documents and images or any uploads. Calendar and SMS alerts for reminders and newsletter are also some of the many key assets of the system.</p>
 							             <p>If you want to discover more of this product, register now for our free trial.</p>';
-
- 
 
 //tabs-Features
 $lang['features']	       		 = 'Features';
@@ -56,6 +61,8 @@ $lang['fea_email_marketing_decsr'] = 'Manage your email list and send newsletter
 //tabs-Live preview
 $lang['live_preview']			= 'Live Preview';
 $lang['live_preview_title']		= 'Aqary CRM Demo';
+$lang['live_demo_username']     = 'Username: demo@demo.com';
+$lang['live_demo_password']     = 'Password: demo';
 //tabs-themes
 $lang['themes']					= 'Themes'; 
 
