@@ -6,7 +6,6 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 
-$lang['aboutus_title'] = 'About Us';
-$lang['aboutus_content'] = 'Hosting Castle helps companies maximize revenue, maximize satisfaction, and maximize every single day. We are creating software meeting the needs, budgets and access requirements of entrepreneurs, small and medium enterprises and larger corporations. 
-
-Our company enables organizations in all industries and markets to increase sales, enhance marketing, and improve customer service while boosting productivity and revenues. We provide excellent client service through our innovative approach, attention to detail, cost-saving ideas, and responsiveness to challenges and commitment to quality.';
+$lang['aboutus_title'] = 'من نحن';
+$lang['aboutus_content'] = ' والإرتياح وتساعدها على النمو يوما بعد يومز فنحن نقوم بإنشاء برمجيات حسب الإحتياجات والميزانيات ومتطلبات رجال الأعمال والمؤسسات الصغيرة والمتوسطة والشركات الكبيرة. شركتنا تمكن المنظمات من زيادة المبيعات فى جميع الصناعات وتعزز السوق وتقوم بتحسين خدمة العملاء تزامنا مع زيادة الإنتاجيات والإيرادات. نحن نقدم خدمة ممتازة للعميل من خلال نهجنا المبتكر والإهتمام بالتفاصيل وأفكار توفير التكاليف والاستجابة للتحديات والإلتزام بالجودة.';
+$lang['aboutus_readmore'] = 'إقرأ المزيد';
